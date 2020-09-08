@@ -1,4 +1,0 @@
-﻿1>------ Build started: Project: Lab 2, Configuration: Debug Win32 ------
-1>main.cpp
-1>Lab 2.vcxproj -> C:\Users\SHARON\source\repos\Lab 2\Debug\Lab 2.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
